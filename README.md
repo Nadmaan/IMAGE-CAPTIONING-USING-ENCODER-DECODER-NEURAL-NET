@@ -1,3 +1,6 @@
+# NAME - NADMAAN FAZEEL
+# ROLL NO. - 213020041 
+
 # Image Captioning using Encoder-Decoder Neural Net
 
 Image caption generator is a process of recognizing the context of an image and annotating it with relevant captions using deep learning, and computer vision. This is an advanced deep learning project where more than one model must be used for analysis and preprocessing the data to obtain the results.
