@@ -10,6 +10,8 @@ The objective of the project is to predict the captions for the input image. The
 
 The features will be concatenated to predict the next word of the caption. CNN is used for image and LSTM is used for text. BLEU Score is used as a metric to evaluate the performance of the trained model.
 
+**Dataset Link** - https://www.kaggle.com/datasets/adityajn105/flickr8k
+
 # Steps in execution of the project
 **1. Import Modules**
 
